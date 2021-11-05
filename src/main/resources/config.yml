@@ -1,0 +1,7 @@
+scoreboard:
+  title: "§5Dungeon Quest"
+  site: "www.skylizerp.com"
+
+default:
+  money: 0.0
+  grade: "Noob"
